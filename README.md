@@ -1,3 +1,16 @@
+Inspired by Youtube video 
+
+[Build a Complete React Admin Dashboard App](https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L)
+by EdRoh
+
+### Shortcuts:
+
+- CTRL(Windows) or CMD(Mac) ALT Down Arrow to select multiple lines. Then CTRL (Windows) or CMD(Mac) Shift Left Arrow to select the text you want to change. 
+
+- CTRL(Windows) or CMD(Mac) + D to select the next instance of the highlighted text and change them all at once.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
