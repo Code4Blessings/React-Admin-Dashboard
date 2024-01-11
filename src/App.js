@@ -1,7 +1,6 @@
  import React from 'react';
  import { ColorModeContext, useMode } from './theme';
-import CssBaseline from '@mui/material/CssBaseline';
-import { ThemeProvider } from '@mui/material/styles';
+import { ThemeProvider, CssBaseline } from '@mui/material/';
 import TopBar from './scenes/global/TopBar';
 
 function App() {
